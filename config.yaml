@@ -117,7 +117,7 @@ params:
     title: Massa libero
     url: blogs
     
-  markup:
+markup:
   goldmark:
     renderer:
       unsafe: true

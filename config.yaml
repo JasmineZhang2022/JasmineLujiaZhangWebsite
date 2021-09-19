@@ -1,6 +1,6 @@
 baseURL: http://jasminezhang.netlify.app/
 languageCode: en-us
-title: Forty
+title: Jasmine-Zhang-Website
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,8 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+      I am an Analytics and Management master candidate at London Business School.
     title: Hi, my name is Jasmine Zhang
   blog: {}
   contact:
@@ -82,20 +81,20 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: Where I grew up
+        title: Beijing
         url: blogs/aliquam
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+        subtitle: Where I attended univeristy
+        title: Los Angeles
         url: blogs/tempus
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: Where I attended business school
+        title: London
         url: blogs/magna
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        subtitle: My favorite tourism location
+        title: Cuba
         url: blogs/ipsum
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
